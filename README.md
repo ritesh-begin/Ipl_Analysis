@@ -90,5 +90,10 @@ A heatmap was created showing how many matches each team has won at every IPL ve
    cd ipl-analysis
    
 ## 👤 Contributer
-- Ritesh Kumar Pandit (https://github.com/ritesh-begin) - Developer & Analyst
-- 
+ <a href="https://github.com/yourusername">
+  <img src="https://github.com/yourusername.png" width="100" height="100">
+  <br>
+  <sub><b>Ritesh Kr. Pandit</b><br>B.Tech Student · Developer · Analyst</sub>
+</a>
+(https://github.com/ritesh-begin) 
+
