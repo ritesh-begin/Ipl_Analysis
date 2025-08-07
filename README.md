@@ -74,7 +74,7 @@ Also some corrupt datas were handled.
 
 ## 🌍 Heatmap: Team vs Venue Wins
 
-A heatmap was created showing how many matches each team has won at every IPL venue. This helps identify home advantage and venue dominance.
+<font size='2'> A heatmap was created showing how many matches each team has won at every IPL venue. This helps identify home advantage and venue dominance. </font>
 
 <img width="1000" height="1000" alt="newplot(1)" src="https://github.com/user-attachments/assets/2ef87181-40f3-41e0-9e0f-c67f89f06545" />
 
