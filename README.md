@@ -51,23 +51,23 @@ Also some corrupt datas were handled.
 
 ## 📊 Key Analyses
 
-- Most winning ipl team
+- # Most winning ipl team
   <img width="1301" height="560" alt="image" src="https://github.com/user-attachments/assets/191a1266-e7c6-49ff-b26f-41329e221097" />
 
-- Toss decision per team trends
+- # Toss decision per team trends
   <img width="1542" height="670" alt="image" src="https://github.com/user-attachments/assets/35d21afb-e6dd-4d2f-bc9a-757ccc9c0fd4" />
 
-- Number of ipl trophy won by teams
+- # Number of ipl trophy won by teams
   <img width="1046" height="652" alt="image" src="https://github.com/user-attachments/assets/40c39057-9a0d-4265-8429-225f9b0cb97d" />
 
-- Top "Player of the Match" in ipl history
+- # Top "Player of the Match" in ipl history
   <img width="1567" height="523" alt="image" src="https://github.com/user-attachments/assets/e5d1c934-8a1a-4088-a185-ea5b9ebcc4f7" />
 
 
-- Chasing vs Defending team history
+- # Chasing vs Defending team history
   <img width="1047" height="1000" alt="newplot" src="https://github.com/user-attachments/assets/ad67f0dc-3c33-4ecb-bfc2-b6cec1e4f6ed" />
 
-- Wins per team and venue(heatmap)
+- # Wins per team and venue(heatmap)
   
 
 ---
